@@ -1,0 +1,15 @@
+G:\repos\CRUD\BusinessLogic\bin\Debug\net9.0\BusinessLogic.deps.json
+G:\repos\CRUD\BusinessLogic\bin\Debug\net9.0\BusinessLogic.dll
+G:\repos\CRUD\BusinessLogic\bin\Debug\net9.0\BusinessLogic.pdb
+G:\repos\CRUD\BusinessLogic\bin\Debug\net9.0\DataAccess.dll
+G:\repos\CRUD\BusinessLogic\bin\Debug\net9.0\DataAccess.pdb
+G:\repos\CRUD\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.AssemblyReference.cache
+G:\repos\CRUD\BusinessLogic\obj\Debug\net9.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\CRUD\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfoInputs.cache
+G:\repos\CRUD\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfo.cs
+G:\repos\CRUD\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.CoreCompileInputs.cache
+G:\repos\CRUD\BusinessLogic\obj\Debug\net9.0\Business.CF5D6E35.Up2Date
+G:\repos\CRUD\BusinessLogic\obj\Debug\net9.0\BusinessLogic.dll
+G:\repos\CRUD\BusinessLogic\obj\Debug\net9.0\refint\BusinessLogic.dll
+G:\repos\CRUD\BusinessLogic\obj\Debug\net9.0\BusinessLogic.pdb
+G:\repos\CRUD\BusinessLogic\obj\Debug\net9.0\ref\BusinessLogic.dll

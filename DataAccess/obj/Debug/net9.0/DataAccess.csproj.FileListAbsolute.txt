@@ -1,0 +1,14 @@
+G:\repos\CRUD\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+G:\repos\CRUD\DataAccess\bin\Debug\net9.0\DataAccess.runtimeconfig.json
+G:\repos\CRUD\DataAccess\bin\Debug\net9.0\DataAccess.dll
+G:\repos\CRUD\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+G:\repos\CRUD\DataAccess\obj\Debug\net9.0\DataAccess.csproj.AssemblyReference.cache
+G:\repos\CRUD\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\CRUD\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+G:\repos\CRUD\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+G:\repos\CRUD\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+G:\repos\CRUD\DataAccess\obj\Debug\net9.0\DataAccess.dll
+G:\repos\CRUD\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+G:\repos\CRUD\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+G:\repos\CRUD\DataAccess\obj\Debug\net9.0\DataAccess.genruntimeconfig.cache
+G:\repos\CRUD\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
