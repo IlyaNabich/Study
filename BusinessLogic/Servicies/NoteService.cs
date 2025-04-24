@@ -1,6 +1,8 @@
-using DataAccess;
+using BusinessLogic.Interfaces;
+using DataAccess.Interfaces;
+using DataAccess.Models;
 
-namespace BusinessLogic;
+namespace BusinessLogic.Servicies;
 
 internal class NoteService(INoteRepository noteRepository) : INoteService
 {

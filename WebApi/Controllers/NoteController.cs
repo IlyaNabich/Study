@@ -1,7 +1,7 @@
-using BusinessLogic;
+using BusinessLogic.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApi;
+namespace WebApi.Controllers;
 
 [ApiController]
 [Route("Note")]

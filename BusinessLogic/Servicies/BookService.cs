@@ -1,7 +1,8 @@
-using System.Net;
-using DataAccess;
+using BusinessLogic.Interfaces;
+using DataAccess.Interfaces;
+using DataAccess.Models;
 
-namespace BusinessLogic;
+namespace BusinessLogic.Servicies;
 
 public class BookService (IBookRepository bookRepository) : IBookService
 {

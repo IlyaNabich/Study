@@ -1,7 +1,8 @@
+using DataAccess.Interfaces;
+using DataAccess.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Query.Internal;
 
-namespace DataAccess;
+namespace DataAccess.Repositories;
 
 internal class NoteRepository(AppContext context) : INoteRepository
 {

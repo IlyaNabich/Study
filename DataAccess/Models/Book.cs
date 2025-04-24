@@ -1,6 +1,6 @@
 
 
-namespace DataAccess;
+namespace DataAccess.Models;
 
 public class Book
 {

@@ -1,7 +1,7 @@
+using BusinessLogic.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-using BusinessLogic;
 
-namespace WebApi;
+namespace WebApi.Controllers;
 
 [ApiController]
 [Route("Book")]

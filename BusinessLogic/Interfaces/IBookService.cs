@@ -1,6 +1,6 @@
-using DataAccess;
+using DataAccess.Models;
 
-namespace BusinessLogic;
+namespace BusinessLogic.Interfaces;
 
 public interface IBookService
 {
